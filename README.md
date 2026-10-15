@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="docs/assets/chatbranch-hero.svg" alt="ChatBranch. From conversation to contribution." width="1280">
-</p>
+</p> -->
 
 <h1 align="center">ChatBranch</h1>
 
